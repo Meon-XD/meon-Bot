@@ -51,7 +51,6 @@ WhatsApp Business Bot adalah bot berbasis WhatsApp yang dirancang untuk membantu
 ├── m<onStore/       # Direktori untuk menyimpan file autentikasi
 ├── LICENSE          # Lisensi proyek
 ├── README.md        # Dokumentasi proyek
-```
 
 ## 🛠️ Cara Instalasi
 ### 1. Prasyarat
